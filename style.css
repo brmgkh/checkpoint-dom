@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+img{
+    width: 300px;
+}
+.btncc{
+    width: 80px;
+    display: flex;
+    justify-content: space-around;
+}
+.btn{
+    font-size: 30px;
+}
+.articles{
+    display: flex;
+    justify-content: space-between;
+    background-color: #e7e7e7;
+    border-radius: 10px;
+    padding: 3%;
+    margin: 50px 0;
+}
+.Baskets,.Socks,.Bag{
+    background-color: white;
+    border-radius: 10px;
+    margin: 10px;
+}
